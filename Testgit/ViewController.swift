@@ -26,7 +26,7 @@ class ViewController: UIViewController {
         return true
     }
     
-   
+    let kot:String
 
 }
 
