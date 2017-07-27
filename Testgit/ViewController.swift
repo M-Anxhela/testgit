@@ -25,9 +25,6 @@ class ViewController: UIViewController {
         print("Application did finish launching")
         return true
     }
-    
-    let kot:String
-    var kot2: String
-    var kot3: String
+
 }
 
