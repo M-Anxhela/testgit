@@ -25,6 +25,11 @@ class ViewController: UIViewController {
         print("Application did finish launching")
         return true
     }
+    
+    func funksioni( ){
+        let adelina: String
+        
+    }
 
 }
 
