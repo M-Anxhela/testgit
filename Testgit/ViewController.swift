@@ -26,10 +26,7 @@ class ViewController: UIViewController {
         return true
     }
     
-    func funksioni( ){
-        let adelina: String
-        
-    }
+    let kot:String
 
 }
 
