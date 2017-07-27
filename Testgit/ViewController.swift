@@ -28,5 +28,6 @@ class ViewController: UIViewController {
     
     let kot:String
     var kot2: String
+    var kot3: String
 }
 
